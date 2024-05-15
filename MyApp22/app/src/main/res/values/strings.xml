@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My App22</string>
+    <string name="imagine_create_design">Imagine. Create. Design</string>
+    <string name="where_ideas_transform_into_reality_connetions_flourish_and_creativity_knows_no_limits">Where ideas transform into reality, connetions flourish, and creativity knows no limits.</string>
+    <string name="lets_get_started">lets get started</string>
+    <string name="lets_let_you_login">lets let you login</string>
+    <string name="enter_information_below">enter information below</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="username">username</string>
+    <string name="sign_up">sign up</string>
+</resources>
